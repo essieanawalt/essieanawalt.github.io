@@ -1,1 +1,1 @@
-# A place to learn Pages
+A place to learn Pages
