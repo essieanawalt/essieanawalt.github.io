@@ -7,4 +7,8 @@ Also, a place to house my learning schedule until it finds a permanent home.
 - **Day 1**: C# ✅  07/07/21
   - **Tools**: Installed .NET Core & utilizing VB Code; C# extension for VB Code added
   - **Notes**: Command line things (run, build, etc); A bit of debugging + looking at launch.json 
-- Day 2:
+- **Day 2**: JavaScript ✅ 07/08/2021
+  - **Notes**: Destructuring, spread, rest, short-circuiting (&&, ||, ??), for-of loop
+- **Day 3**:
+  - **Tools**:
+  - **Notes**:
